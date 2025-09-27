@@ -7,7 +7,7 @@ TERM = "xterm-256color"
 normal = { family = "JetBrains Mono NL" }
 bold = { family = "JetBrains Mono NL" }
 italic = { family = "JetBrains Mono NL" }
-size = 9
+size = 12 
 
 [window]
 padding.x = 14

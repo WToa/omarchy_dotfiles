@@ -14,3 +14,5 @@ source ~/.local/share/omarchy/default/bash/rc
 # PS1="\W \[\e]0;\w\a\]$PS1"
 
 alias lg=lazygit
+alias pbcopy='xsel --clipboard --input'
+alias pbpaste='xsel --clipboard --output'
